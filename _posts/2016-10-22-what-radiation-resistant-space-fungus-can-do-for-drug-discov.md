@@ -32,13 +32,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.scientificamerican.com/article/what-radiation-resistant-space-fungus-can-do-for-drug-discovery/
 title: What Radiation-Resistant Space Fungus Can Do for Drug Discovery
-datePublished: '2016-10-22T21:46:55.964Z'
-dateModified: '2016-10-22T21:46:10.783Z'
+datePublished: '2016-10-22T21:47:13.998Z'
+dateModified: '2016-10-22T21:47:13.206Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-10-22-what-radiation-resistant-space-fungus-can-do-for-drug-discov.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
