@@ -4,15 +4,22 @@
         <description><![CDATA[Open thoughts]]></description>
         <link>https://thegrid.ai/drifttree/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Oct 2016 21:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2016 21:03:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drifttree/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Oct 2016 21:02:16 GMT</pubDate>
+        <pubDate>Sat, 22 Oct 2016 21:03:41 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d0cb67-fb65-4aa0-9e3e-920d9ce61d27.gif">]]></description>
             <link>https://youtu.be/CfKIF9S2uyQ</link>
             <guid isPermaLink="false">d34a3a24-cacd-4af1-9fca-f9a389389693</guid>
             <pubDate>Sat, 22 Oct 2016 20:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inspiring interview  with John Nash]]></title>
+            <description><![CDATA[<article><h1>Inspiring interview  with John Nash</h1><p>Even if the world thinks you are crazy the scientific world can respect your ideas (in the end)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0106c56b33d2f02869ccdd7943e93770b3f2b288.jpg"></article>]]></description>
+            <link>http://www.nobelprize.org/mediaplayer/index.php?id=429</link>
+            <guid isPermaLink="false">7e15423f-f934-45bb-9708-72856040e27c</guid>
+            <pubDate>Sat, 22 Oct 2016 21:03:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -27,13 +34,6 @@
             <link>https://youtu.be/dHpHxA-9CVM</link>
             <guid isPermaLink="false">a484e917-a345-47e0-ab7b-22dbeffdd39c</guid>
             <pubDate>Sat, 22 Oct 2016 20:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inspiring interview  with John Nash]]></title>
-            <description><![CDATA[<article><h1>Inspiring interview  with John Nash</h1><p>Even if the world thinks you are crazy the scientific world can respect your ideas (in the end)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0106c56b33d2f02869ccdd7943e93770b3f2b288.jpg"></article>]]></description>
-            <link>http://www.nobelprize.org/mediaplayer/index.php?id=429</link>
-            <guid isPermaLink="false">7e15423f-f934-45bb-9708-72856040e27c</guid>
-            <pubDate>Sat, 22 Oct 2016 21:02:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
