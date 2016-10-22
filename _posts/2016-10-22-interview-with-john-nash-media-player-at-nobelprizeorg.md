@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-22T21:02:16.516Z'
+datePublished: '2016-10-22T21:03:40.754Z'
 sourcePath: _posts/2016-10-22-interview-with-john-nash-media-player-at-nobelprizeorg.md
 inFeed: true
 isBasedOnUrl: 'http://www.nobelprize.org/mediaplayer/index.php?id=429'
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-10-22T21:02:15.968Z'
+dateModified: '2016-10-22T21:03:40.378Z'
 title: Inspiring interview  with John Nash
 app_links: []
 publisher:
