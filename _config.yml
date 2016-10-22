@@ -19,6 +19,10 @@ layout_spectrum: 0.8520614611916244
 author:
   name: Eli
 name: drifttree
+navigation:
+  - name: intro
+    id: d34a3a24-cacd-4af1-9fca-f9a389389693
+    type: content
 title: Open thoughts
 content: []
 description: ''
