@@ -1,9 +1,10 @@
-typography_spectrum: 0.5843924200162292
+layout_spectrum: 0.09865969366606067
+typography_spectrum: 0.3892044925284895
 color:
-  brandStrength: 0.625702161109075
-  lightness: 0.5661105813924223
-  saturation: 0.9745177233126014
-  rhythmicContrast: 0.4369599614292383
+  brandStrength: 0.6275531462507119
+  lightness: 0.5698847552838893
+  saturation: 0.9718302988154942
+  rhythmicContrast: 0.4393447644065254
   brandColors:
     - '#468966'
     - '#FFF0A5'
@@ -15,7 +16,6 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/5073037a-d3d5-4597-8840-163f08b8eca9.gif
   appId: 'https://www.facebook.com/eli.brouwer.3'
-layout_spectrum: 0.8520614611916244
 author:
   name: Eli
 name: drifttree
