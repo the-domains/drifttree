@@ -28,7 +28,9 @@ navigation:
     type: content
 title: Open thoughts
 content: []
-description: ''
+description: >-
+  Because I am against that fb has all my stories. This page is to order my own
+  stories
 purpose:
   - type: contact
     url: 'mailto:eli.brouwer@gmail.com'
