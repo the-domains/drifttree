@@ -29,3 +29,7 @@ navigation:
 title: Open thoughts
 content: []
 description: ''
+purpose:
+  - type: contact
+    url: 'mailto:eli.brouwer@gmail.com'
+    label: Contact
