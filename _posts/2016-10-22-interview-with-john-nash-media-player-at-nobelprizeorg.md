@@ -22,12 +22,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.nobelprize.org/mediaplayer/index.php?id=429'
 title: Interview with John Nash - Media Player at Nobelprize.org
-datePublished: '2016-10-22T20:59:30.227Z'
-dateModified: '2016-10-22T20:59:26.499Z'
+datePublished: '2016-10-22T20:59:36.023Z'
+dateModified: '2016-10-22T20:59:35.459Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-22-interview-with-john-nash-media-player-at-nobelprizeorg.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
