@@ -23,6 +23,9 @@ navigation:
   - name: intro
     id: d34a3a24-cacd-4af1-9fca-f9a389389693
     type: content
+  - name: Music
+    id: 2af9d5a3-3738-4bd4-880a-51531f4fffdd
+    type: content
 title: Open thoughts
 content: []
 description: ''
