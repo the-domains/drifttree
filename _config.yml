@@ -1,4 +1,3 @@
-layout_spectrum: 0.8520614611916244
 typography_spectrum: 0.5843924200162292
 color:
   brandStrength: 0.625702161109075
@@ -6,9 +5,20 @@ color:
   saturation: 0.9745177233126014
   rhythmicContrast: 0.4369599614292383
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/5073037a-d3d5-4597-8840-163f08b8eca9.gif
+  appId: 'https://www.facebook.com/eli.brouwer.3'
+layout_spectrum: 0.8520614611916244
+author:
+  name: Eli
 name: drifttree
+title: Open thoughts
+content: []
+description: ''
