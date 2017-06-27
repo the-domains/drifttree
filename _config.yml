@@ -27,6 +27,31 @@ navigation:
     id: 2af9d5a3-3738-4bd4-880a-51531f4fffdd
     type: content
 title: Open thoughts
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d0cb67-fb65-4aa0-9e3e-920d9ce61d27.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d0cb67-fb65-4aa0-9e3e-920d9ce61d27.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: The shit to share
 purpose: []
